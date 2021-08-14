@@ -1,14 +1,17 @@
 # Catsn-Dogs
 Moringa IP week 10
+
 Practice project on classification of images using tensor flow
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This week we learnt about Machine Learning. specifically: Deep learning. We were also tasked with learning about tensorflow and pytorch
-I will be putting what I learnt to test with this dataset about cats and dogs
+This week we learnt about Machine Learning, specifically: Deep learning & Neural Networks. 
+We were tasked with learning how to use tensorflow or pytorch for text/image classification.
 
-I intend to find out whether we can use the independent variables to come up with an accurate classification of whether an image contains a cat or a dog.
+We will be putting what we learnt to test with this dataset on classifying images of cats and dogs
+
+We intend to find out whether we can use the independent variables to come up with an accurate classification of whether an image contains a cat or a dog.
 
 We intend to achieve an accuracy score of at least 80%. 
 
@@ -19,26 +22,26 @@ We intend to achieve an accuracy score of at least 80%.
 
 Here are the major tools that we used for the data analysis
 
-* [Google Colab](https://colab.research.google.com/)
+* [Google Colab](https://colab.research.google.com/) 
 * [Tableu Public](https://public.tableau.com/en-us/s/)
 * [Python](https://www.python.org/)
 * [Git](https://github.com/)
 * [Tensorflow](https://www.tensorflow.org)
-* [Special thanks to google](https://google.com)
-* [Special thanks to grepper tool](https://www.codegrepper.com/)
-* [Special thanks to Moringa School](https://moringaschool.com/)
+* Special thanks to [Google](https://google.com)
+* Special thanks to [grepper tool](https://www.codegrepper.com/)
+* Special thanks to [Moringa School](https://moringaschool.com/)
 
 
 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-I did this analysis with the intention of improving my skills in machine learning. However, the models used in this analysis could be used for deep learning to identify the contents of an image. with a good train dataset, the code in this can be scaled to identify different characters and contents of an image
+We did this analysis with the intention of improving our skills in machine learning. However, the models used in this analysis could be used for deep learning to identify the contents of an image. With a good train dataset, the code in this can be scaled to identify different characters and contents of an image
 
 <!-- ROADMAP -->
 ## Roadmap
 
-Following my analysis I identified some gaps in the data and would like to continue improving the dashboard and analysis in order to come up with a more accurate prediction
+Following our analysis, we identified some gaps in the data and would like to continue improving the dashboard and analysis in order to come up with a more accurate prediction
 .
 Some of the data that would have been nice to have are:
 
@@ -73,10 +76,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Ian Tirok - [Ian](https://twitter.com/Kittony_) - ian.tirok@gmail.com
-John Ruoro - [John](https://github.com/ruoroj) - john.ruoro@student.moringaschool.com
-Kelvin Njunge - [Kelvin](https://github.com/kelvinnjunge) - kelvingitau96@gmail.com
-Beatrice Kiplagat - [Beaty](https://github.com/beatricekiplagat) - beatrice.kiplagat@student.moringaschool.com
+* Ian Tirok - [Ian](https://twitter.com/Kittony_) - ian.tirok@gmail.com
+* John Ruoro - [John](https://github.com/ruoroj) - john.ruoro@student.moringaschool.com
+* Kelvin Njunge - [Kelvin](https://github.com/kelvinnjunge) - kelvingitau96@gmail.com
+* Beatrice Kiplagat - [Beaty](https://github.com/beatricekiplagat) - beatykiplagat@gmail.com
 
 
 
