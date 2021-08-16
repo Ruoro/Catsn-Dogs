@@ -15,7 +15,8 @@ We intend to find out whether we can use the independent variables to come up wi
 
 We intend to achieve an accuracy score of at least 80%. 
 
-* Follow us to see whether we will be able to achieve an accuracy score of at least 80% or more
+* Follow us to see whether we will be able to achieve an accuracy score of at least 80% or more.
+* The project is summarized in Google [slides](https://docs.google.com/presentation/d/1KWH_HNYosCIAMJEYkr_MhnimvrFMXn1KiNKRxv35teU/edit?usp=sharing)
 
 
 ### Built With
